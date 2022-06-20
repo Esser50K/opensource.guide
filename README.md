@@ -17,7 +17,7 @@ This site is powered by [Jekyll](https://jekyllrb.com/). Check out our [contribu
 
 Content is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). See [notices](notices.md) for complete details, including attribution guidelines, contribution terms, and software and third-party licenses and permissions.
 
-## Acknowledgments
+## Acknowledgements
 
 The initial release of these guides were authored by **@nayafia, @bkeepers, @stephbwills,** and **@mlinksva**.
 
@@ -25,3 +25,4 @@ Thanks to **@aitchabee, @benbalter, @brettcannon, @caabernathy, @coralineada, @d
 
 ## Disclaimer
 While we've got advice about running an open source project, we're not lawyers. Be sure to read our [disclaimer](notices.md#legal-disclaimer) before diving in.
+
